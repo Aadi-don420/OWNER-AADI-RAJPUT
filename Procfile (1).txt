@@ -1,1 +1,0 @@
-web: python mozzc0nvo.py
